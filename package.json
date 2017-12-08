@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/andregomars/punchout/issues"
   },
-  "homepage": "https://github.com/andregomars/punchout#readme"
+  "homepage": "https://github.com/andregomars/punchout#readme",
+  "dependencies": {
+    "moment": "^2.19.3"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
 }
