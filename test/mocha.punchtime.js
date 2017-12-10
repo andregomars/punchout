@@ -1,5 +1,5 @@
 const Test = require('assert');
-const { punchTime, getHourAndMinute } = require('../punchtime');
+const { punchTime, getHourAndMinute } = require('../lib/punchtime');
 
 describe("PM punch out time calculation", () => {
     it("should return pmOut time approprately for 8 hours work", () => {

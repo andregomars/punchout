@@ -2,7 +2,11 @@
   "name": "punchout",
   "version": "1.0.0",
   "description": "take care of clock in / out time of your daily work exactly",
-  "main": "app.js",
+  "main": "./lib/punchout.js",
+  "preferGlobal": true,
+  "bin": {
+    "punchout": "./bin/punchout.js"
+  },
   "scripts": {
     "test": "mocha ./test/"
   },
