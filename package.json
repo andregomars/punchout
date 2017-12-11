@@ -1,6 +1,6 @@
 {
   "name": "punchout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "take care of clock in / out time of your daily work exactly",
   "main": "./lib/punchout.js",
   "preferGlobal": true,
