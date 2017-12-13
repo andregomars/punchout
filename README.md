@@ -1,4 +1,5 @@
 # punchout
+[![Build Status](https://travis-ci.org/andregomars/punchout.svg?branch=master)](https://travis-ci.org/andregomars/punchout)
 > take care of clock in / out time of your daily work exactly
 
 ### Get PM punch out clock
